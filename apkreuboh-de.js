@@ -25,12 +25,7 @@ if(x=="1"){xxx="empire-z-v051.html"}
 if(x=="2"){xxx="batman-flash-hero-run-2019.html"}
 if(x=="3"){xxx="photo-collage-maker-2019.html"}
 if(x=="4"){xxx="need-for-speed-most-wanted-2019.html"}
-if(x=="5"){xxx="du-battery-save-phone-charger-2019.html"}
-if(x=="6"){xxx="imo-free-video-calls-and-chat-2019.html"}
-if(x=="7"){xxx="vopor-icon-pack-v550.html"}
-if(x=="8"){xxx="rally-racer-drift-v156.html"}
-if(x=="9"){xxx="carx-drift-racing-v134.html"}
-if(x=="10"){xxx="retrica-v29.html"}a_to_ve[i].href="https://apkreuboh.blogspot.com/2019/10/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="retrica-v29.html"}a_to_ve[i].href="https://apkreuboh.blogspot.com/2019/10/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
